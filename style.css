@@ -1,0 +1,12 @@
+.jumbotron{
+    background-color: teal;
+    
+}
+
+body{
+    background-image: url("bild1.webp");
+    background-size: 100%;
+}
+h3{
+    background-color: #f2f2f2;
+}
